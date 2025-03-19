@@ -13,7 +13,7 @@ A Python-based GUI tool to monitor active network connections, perform IP lookup
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/active-connections-viewer.git
+   git clone https://github.com/ethic-bakeery/active-connections-viewer.git
    cd active-connections-viewer
    ```
 2. Install dependencies:
