@@ -1,0 +1,7 @@
+psutil
+requests
+Pillow
+whois
+python-whois
+virustotal-api
+
